@@ -1,0 +1,12 @@
+.container-fluid {
+    background-image: url("https://photos.com/featured/hourglass-sand-timer-michael-phillips.html?product=greeting-card");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    box-shadow: 2px 2px black;
+    border-color: black;
+}
